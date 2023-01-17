@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MSIB 4 Suitmedia</string>
+    <string name="hello">hello</string>
+    <string name="type_your_word_here">Type your word here</string>
+    <string name="check_palindrome">check palindrome</string>
+</resources>
